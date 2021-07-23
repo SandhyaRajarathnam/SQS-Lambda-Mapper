@@ -1,8 +1,8 @@
 
 provider "aws" {
 	region="us-east-2"
-	access_key= "AKIAX22GPDLA3CVOB7PD"
-	secret_key= "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"
+	access_key= "xyz"
+	secret_key= "pqrs"
 }
 
 //SQS FIFO QUEUE
